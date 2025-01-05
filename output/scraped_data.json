@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Roadster",
+        "price": 1159,
+        "rating": 4,
+        "description": "The Roadster Lifestyle Co. Men Black Round Toe Comfort Insole Lightweight Slip On Sneakers",
+        "url": "https://www.myntra.com/casual-shoes/roadster/the-roadster-lifestyle-co-men-black-round-toe-comfort-insole-lightweight-slip-on-sneakers/29812388/buy"
+    },
+    {
+        "name": "JOKER & WITCH",
+        "price": 1379,
+        "rating": 4,
+        "description": "JOKER & WITCH Unisex James & Claire Couple Watches JWCW215",
+        "url": "https://www.myntra.com/watch-gift-set/joker+%26+witch/joker--witch-unisex-james--claire-couple-watches-jwcw215/24295998/buy"
+    },
+    {
+        "name": "WROGN",
+        "price": 448,
+        "rating": 3,
+        "description": "WROGN Men Other Sunglasses with UV Protected Lens WRNSG-07-SL",
+        "url": "https://www.myntra.com/sunglasses/wrogn/wrogn-men-other-sunglasses-with-uv-protected-lens-wrnsg-07-sl/28422486/buy"
+    },
+    {
+        "name": "HRX by Hrithik Roshan",
+        "price": 999,
+        "rating": 0,
+        "description": "HRX by Hrithik Roshan Unisex Colourblocked Running Non-Marking Shoes",
+        "url": "https://www.myntra.com/sports-shoes/hrx+by+hrithik+roshan/hrx-by-hrithik-roshan-unisex-colourblocked-running-non-marking-shoes/32085906/buy"
+    },
+    {
+        "name": "Mast & Harbour",
+        "price": 799,
+        "rating": 3,
+        "description": "Mast & Harbour Men Comfort Sandals",
+        "url": "https://www.myntra.com/sandals/mast+%26+harbour/mast--harbour-men-comfort-sandals/28886982/buy"
+    },
+    {
+        "name": "U.S. Polo Assn.",
+        "price": 1499,
+        "rating": 4,
+        "description": "U S Polo Assn Men Navy Blue MONTON 4.0 Sneakers",
+        "url": "https://www.myntra.com/casual-shoes/u.s.+polo+assn./u-s-polo-assn-men-navy-blue-monton-40-sneakers/18843486/buy"
+    },
+    {
+        "name": "HRX by Hrithik Roshan",
+        "price": 999,
+        "rating": 4,
+        "description": "HRX by Hrithik Roshan Men Black And Grey Non-Marking Running Sports Shoes",
+        "url": "https://www.myntra.com/sports-shoes/hrx+by+hrithik+roshan/hrx-by-hrithik-roshan-men-black-and-grey-non-marking-running-sports-shoes/22799380/buy"
+    },
+    {
+        "name": "Gear",
+        "price": 489,
+        "rating": 4,
+        "description": "Gear Unisex Black & Grey Colourblocked Cross-Training Duffel Bag",
+        "url": "https://www.myntra.com/duffel-bag/gear/gear-unisex-black--grey-colourblocked-cross-training-duffel-bag/13512466/buy"
+    }
+]
