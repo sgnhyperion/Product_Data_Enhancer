@@ -19,7 +19,7 @@ Before running the scripts, make sure you have the following:
 2. Inside the ProductScraper_Consuma folder, run the following command in terminal to execute the setup script:
 
     ```bash
-    `./setup_and_run.sh`
+        ./setup_and_run.sh
     ```
 
 3. The script will:
@@ -38,7 +38,7 @@ Before running the scripts, make sure you have the following:
 6. To deactivate the virtual environment after running the script, use the following command in the terminal:
 
     ```bash
-    `deactivate`
+        deactivate
     ```
 
 ## Dependencies
