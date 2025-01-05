@@ -23,6 +23,7 @@ Before running the scripts, make sure you have the following:
 3. Inside the ProductScraper_Consuma folder, run the following command in terminal to execute the setup script:
 
     ```bash
+        chmod +x setup_and_run.sh
         ./setup_and_run.sh
     ```
 

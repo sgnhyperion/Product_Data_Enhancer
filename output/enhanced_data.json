@@ -10,7 +10,7 @@
         "enhanced_data": {
             "Category": "Men's Fashion",
             "Pricing Segment": "Mid-market",
-            "Tagline": "Step into comfort with style!"
+            "Tagline": "Step into comfort and style with Roadster sneakers!"
         }
     },
     {
@@ -23,8 +23,8 @@
         },
         "enhanced_data": {
             "Category": "Men's Fashion",
-            "Pricing Segment": "Premium",
-            "Tagline": "Timeless elegance for couples"
+            "Pricing Segment": "Mid-market",
+            "Tagline": "Timeless elegance for every couple"
         }
     },
     {
@@ -38,7 +38,7 @@
         "enhanced_data": {
             "Category": "Men's Fashion",
             "Pricing Segment": "Budget",
-            "Tagline": "Style meets affordability in every shade"
+            "Tagline": "Stay stylish under the sun"
         }
     },
     {
@@ -51,7 +51,7 @@
         },
         "enhanced_data": {
             "Category": "Sports",
-            "Pricing Segment": "Mid-market",
+            "Pricing Segment": "Budget",
             "Tagline": "Run with style and comfort!"
         }
     },
@@ -65,8 +65,8 @@
         },
         "enhanced_data": {
             "Category": "Men's Fashion",
-            "Pricing Segment": "Budget",
-            "Tagline": "Step into comfort with style!"
+            "Pricing Segment": "Mid-market",
+            "Tagline": "Step into comfort with style"
         }
     },
     {
@@ -80,7 +80,7 @@
         "enhanced_data": {
             "Category": "Men's Fashion",
             "Pricing Segment": "Mid-market",
-            "Tagline": "Step into style with comfort and confidence"
+            "Tagline": "Step up your style with U.S. Polo Assn. sneakers!"
         }
     },
     {
@@ -92,9 +92,9 @@
             "url": "https://www.myntra.com/sports-shoes/hrx+by+hrithik+roshan/hrx-by-hrithik-roshan-men-black-and-grey-non-marking-running-sports-shoes/22799380/buy"
         },
         "enhanced_data": {
-            "Category": "Men's Fashion",
+            "Category": "Sports",
             "Pricing Segment": "Mid-market",
-            "Tagline": "Step up your game with style and comfort"
+            "Tagline": "Run with style and comfort!"
         }
     },
     {
@@ -108,7 +108,7 @@
         "enhanced_data": {
             "Category": "Bags",
             "Pricing Segment": "Mid-market",
-            "Tagline": "Elevate your training with style and convenience"
+            "Tagline": "Elevate Your Training with Style and Function"
         }
     }
 ]
