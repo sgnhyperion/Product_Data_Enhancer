@@ -16,26 +16,30 @@ Before running the scripts, make sure you have the following:
 ### Steps to Run:
 
 1. open the project to your local machine.
-2. Inside the ProductScraper_Consuma folder, run the following command in terminal to execute the setup script:
+   ```bash
+        git clone git@github.com:sgnhyperion/Product_Data_Enhancer.git
+        cd ProductScraper_Consuma
+    ```
+3. Inside the ProductScraper_Consuma folder, run the following command in terminal to execute the setup script:
 
     ```bash
         ./setup_and_run.sh
     ```
 
-3. The script will:
+4. The script will:
     - Create a virtual environment (if not already created).
     - Install all the necessary dependencies.
     - Prompt you to enter your OpenAI API key.
 
-4. The script will scrape product data from Myntra and enhance the data using OpenAI API. The enhanced data will be saved in `output/enhanced_data.json`, and the raw scraped data will be saved in `output/scraped_data.json`.
+5. The script will scrape product data from Myntra and enhance the data using OpenAI API. The enhanced data will be saved in `output/enhanced_data.json`, and the raw scraped data will be saved in `output/scraped_data.json`.
 
-5. If you want to change your OpenAI API key later, run the following command in your terminal:
+6. If you want to change your OpenAI API key later, run the following command in your terminal:
 
     ```bash
     export OPENAI_API_KEY=Your_API_KEY
     ```
 
-6. To deactivate the virtual environment after running the script, use the following command in the terminal:
+7. To deactivate the virtual environment after running the script, use the following command in the terminal:
 
     ```bash
         deactivate
